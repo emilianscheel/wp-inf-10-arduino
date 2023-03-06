@@ -1,0 +1,6 @@
+﻿Name,Menge,Komponente
+"U1",1," Arduino Uno R3"
+"S1",1," Drucktaster"
+"R1",1,"10 kΩ Widerstand"
+"D1",1,"Blau LED"
+"R2",1,"220 Ω Widerstand"
